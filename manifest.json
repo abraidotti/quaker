@@ -1,0 +1,7 @@
+{
+  "name": "quaker",
+  "short_name": "quaker",
+  "description": "learning polymer with earthquake data",
+  "start_url": "/",
+  "display": "standalone"
+}
